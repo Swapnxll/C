@@ -3,8 +3,8 @@
 multi line comment
 */
 int main() { //can also use snippet/boiler
-    int Tom; // case sensetive and only "_" this can be used
-    int tom;
+    int hello; // case sensetive and only "_" this can be used
+    int HELLO;
     int error_code;
     // single line comment
     // comments are never executed (ctrl+/)
